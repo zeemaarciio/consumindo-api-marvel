@@ -1,0 +1,13 @@
+.left {
+	width: 98%;
+	display: inline-block;
+	border: solid 1px #ccc;
+	border-radius: 20px;
+}
+
+.right {
+	width: 48%;
+	display: inline-block;
+	border: solid 1px #ccc;
+	border-radius: 20px;
+}
